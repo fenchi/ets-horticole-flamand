@@ -39,7 +39,7 @@
 
 
 <script language=JavaScript id=onDate ></script>
-<script language=JavaScript src="http://www.ets-horticoles-flamand.be/media/system/js/stat128.php" ></script>
+  
 </head>
 <body>
 <div id="art-page-background-glare">
@@ -107,19 +107,19 @@
 		    <div class="art-block-cr"></div>
 		    <div class="art-block-cc"></div>
 		    <div class="art-block-body">
-		
+
 		<div class="art-blockheader">
 		    <div class="l"></div>
 		    <div class="r"></div>
 		     <div class="t">
 		Carte itinéraire</div>
 		</div>
-		
+
 				<div class="art-blockcontent">
 		    <div class="art-blockcontent-body">
 		<!-- block-content -->
-		
-		
+
+
 <!-- Form -->
 
 <b>
@@ -140,20 +140,20 @@ Vos coordonnées :</b>
   <p><span class="art-button-wrapper"><span class="l"> </span><span class="r"> </span><input class="button art-button" type="submit" value="Calculer le trajet" name="checkit" onclick="javascript:GetDirections();return false;"/></span></p>
 </form>
 
-<script type="text/javascript">			
+<script type="text/javascript">
 		function GetDirections()
-		{				
+		{
 			var SourceAdress = 'saddr=';
 			var DestinationAddress = 'daddr=' + 'Rue du marais 127' + ', ' + 'Tihange' + ', ' + 'Belgique' + ' ' + '4500'; //destination address pulled from admin
 			var DestinationCoordonnees = 'daddr=' + '48.86223' + ',' + '2.411327' + '(Flamand-Labory)' ; //Coordonn�es g�ographiques de la destinatons
 			var Url = '';
 			var DestinationFinal=DestinationAddress;			//read out source adress from the input field
-			SourceAdress += document.formap.faddress.value + ',' + document.formap.fcity.value + ',' + document.formap.fzip.value + ',' + document.formap.fstate.value;	
-			//form the url 
+			SourceAdress += document.formap.faddress.value + ',' + document.formap.fcity.value + ',' + document.formap.fzip.value + ',' + document.formap.fstate.value;
+			//form the url
 			//Url ='http://maps.google.be/maps?' + SourceAdress + '&' + DestinationFinal + '&lci=lmc:,lmc:';
 			Url ='http://maps.google.be/maps?' + SourceAdress + '&' + DestinationFinal + ''+ ''+ '';
-			//you can use the line below to show the directions in a popup window, don;t forget to comment out the line above... 
-			window.open(Url,'direction','width=900,height=650,scrollbars=yes,toolbar=no,location=yes,resizable=yes'); 	
+			//you can use the line below to show the directions in a popup window, don;t forget to comment out the line above...
+			window.open(Url,'direction','width=900,height=650,scrollbars=yes,toolbar=no,location=yes,resizable=yes');
 		}
 </script>
 </p>
@@ -161,16 +161,16 @@ Vos coordonnées :</b>
 
 
 		<!-- /block-content -->
-		
+
 				<div class="cleared"></div>
 		    </div>
 		</div>
-		
-		
+
+
 				<div class="cleared"></div>
 		    </div>
 		</div>
-		
+
 </div>
 <div class="art-layout-cell art-content">
 
@@ -186,24 +186,24 @@ Vos coordonnées :</b>
 		    <div class="art-post-cc"></div>
 		    <div class="art-post-body">
 		<div class="art-post-inner">
-		
+
 				<div class="art-postcontent">
 		    <!-- article-content -->
-		
+
 		<span class="breadcrumbs pathway">
 <a href="index.html" class="pathway">Ets Horticoles Flamand</a> <img src="/images/M_images/arrow.png" alt=""  /> Accès</span>
 
 		    <!-- /article-content -->
 		</div>
 		<div class="cleared"></div>
-		
-		
+
+
 		</div>
-		
+
 				<div class="cleared"></div>
 		    </div>
 		</div>
-		
+
 <div class="art-post">
     <div class="art-post-tl"></div>
     <div class="art-post-tr"></div>
@@ -216,14 +216,14 @@ Vos coordonnées :</b>
     <div class="art-post-cc"></div>
     <div class="art-post-body">
 <div class="art-post-inner">
- <h2 class="art-postheader"> 
+ <h2 class="art-postheader">
 Accès
 </h2>
 
 <div class="art-postcontent">
     <!-- article-content -->
 <div class="art-article"><h3>Rue du marais 127, 4500 Tihange</h3>
-<center> 
+<center>
 <table border="0">
 <tbody>
 <tr>
@@ -258,7 +258,7 @@ Accès
 <div class="art-footer">
  <div class="art-footer-inner">
     <div class="art-footer-text">
-  <p>Rue du Marais 127 - 4500 Tihange - BELGIQUE - Tél. : 085/21.23.71 - Fax : 085/21.48.11 - Email : <a href="mailto:info@ets-horticoles-flamand.be" target="_blank">info@ets-horticoles-flamand.be</a> 
+  <p>Rue du Marais 127 - 4500 Tihange - BELGIQUE - Tél. : 085/21.23.71 - Fax : 085/21.48.11 - Email : <a href="mailto:info@ets-horticoles-flamand.be" target="_blank">info@ets-horticoles-flamand.be</a>
 copyright © 2011<br/>
 </p>
     </div>
@@ -274,5 +274,5 @@ copyright © 2011<br/>
 
 </div>
 
-</body> 
+</body>
 </html>
