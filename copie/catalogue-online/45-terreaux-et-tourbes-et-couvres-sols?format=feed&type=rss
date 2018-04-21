@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1010" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1010" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Catalogue online</title>
+		<description>Les établissements Flamand vous proposent leurs spécialités florales, pépinières, semences, et vous offrent un catalogue de produits important, avec promotions régulières</description>
+		<link>http://www.ets-horticoles-flamand.be/catalogue-online/45</link>
+		<lastBuildDate>Sun, 15 Apr 2018 06:25:13 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>Terreaux et tourbes et couvres-sols</title>
+			<link>http://www.ets-horticoles-flamand.be/catalogue-online/terreaux-et-tourbes-et-couvres-sols</link>
+			<guid>http://www.ets-horticoles-flamand.be/catalogue-online/terreaux-et-tourbes-et-couvres-sols</guid>
+			<description><![CDATA[<p><iframe src="http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2018 - terreaux et tourbes.pdf" width="100%" height="500" frameborder="0" scrolling="auto" name="iframe" class="wrapper" id="blockrandom"></iframe></p>
+<p style="text-align: center;">Si vous désirez télécharger ce document, <a target="blank" href="http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2018 - terreaux et tourbes.pdf">cliquez ici</a>.</p>]]></description>
+			<author>fenchister@gmail.com (François)</author>
+			<category>Terreaux et tourbes et couvres-sols</category>
+			<pubDate>Mon, 11 Jul 2011 13:48:18 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

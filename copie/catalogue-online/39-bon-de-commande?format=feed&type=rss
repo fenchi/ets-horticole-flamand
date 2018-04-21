@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1010" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1010" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Catalogue online</title>
+		<description>Les établissements Flamand vous proposent leurs spécialités florales, pépinières, semences, et vous offrent un catalogue de produits important, avec promotions régulières</description>
+		<link>http://www.ets-horticoles-flamand.be/catalogue-online/39</link>
+		<lastBuildDate>Sun, 15 Apr 2018 06:25:24 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>Bon de commande à télécharger (Excel)</title>
+			<link>http://www.ets-horticoles-flamand.be/catalogue-online/bon-de-commande</link>
+			<guid>http://www.ets-horticoles-flamand.be/catalogue-online/bon-de-commande</guid>
+			<description><![CDATA[<p>Cliquez sur l'image pour télécharger le bon de commande à remplir.</p>
+<p>Si vous n'avez pas Excel <a target="blank" href="https://docs.google.com/viewer?url=http://www.ets-horticoles-flamand.be/images/stories/pdf/bon de commande.xls">cliquez-ici</a></p>
+<center><a href="http://www.ets-horticoles-flamand.be//images/stories/pdf/bon de commande.xls"><img title="Bon de commande" src="http://www.ets-horticoles-flamand.be/images/stories/bon de comm vrai.jpg" width="95%" /><a/></center>]]></description>
+			<author>fenchister@gmail.com (François)</author>
+			<category>Bon de commande</category>
+			<pubDate>Mon, 11 Jul 2011 13:52:45 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

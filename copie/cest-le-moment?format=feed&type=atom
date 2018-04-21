@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1010" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1010" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Que puis-je faire dans mon jardin ?</title>
+	<subtitle type="text">Les établissements Flamand vous proposent leurs spécialités florales, pépinières, semences, et vous offrent un catalogue de produits important, avec promotions régulières</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be"/>
+	<id>http://www.ets-horticoles-flamand.be/cest-le-moment</id>
+	<updated>2018-04-15T06:21:05Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.ets-horticoles-flamand.be/cest-le-moment?format=feed&amp;type=atom" />
+	<entry>
+		<title>Fraisiers</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/cest-le-moment/43-cest-le-moment/84-fraisiers"/>
+		<published>2011-08-12T14:24:11Z</published>
+		<updated>2011-08-12T14:24:11Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/cest-le-moment/43-cest-le-moment/84-fraisiers</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;C'est le moment de repiquer les fraisiers.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;http://www.fond-ecran-image.fr/galerie-membre/fruit-fraise/fond-d-ecran-fraises.jpg&quot; alt=&quot;Fraises&quot; width=&quot;500&quot; /&gt;&lt;/center&gt;
+&lt;p&gt; &lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;C'est le moment de repiquer les fraisiers.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;center&gt;&lt;img src=&quot;http://www.fond-ecran-image.fr/galerie-membre/fruit-fraise/fond-d-ecran-fraises.jpg&quot; alt=&quot;Fraises&quot; width=&quot;500&quot; /&gt;&lt;/center&gt;
+&lt;p&gt; &lt;/p&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1010" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1010" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Semences</title>
+	<subtitle type="text">Les établissements Flamand vous proposent leurs spécialités florales, pépinières, semences, et vous offrent un catalogue de produits important, avec promotions régulières</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be"/>
+	<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences</id>
+	<updated>2018-04-15T06:23:07Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences?format=feed&amp;type=atom" />
+	<entry>
+		<title>Semences de tomates</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/tomates"/>
+		<published>2011-07-11T12:16:50Z</published>
+		<updated>2011-07-11T12:16:50Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/tomates</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/tomates semences 2018.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/tomates semences 2018.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/tomates semences 2018.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/tomates semences 2018.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Semences de piments et poivrons</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/piments-et-poivrons"/>
+		<published>2011-07-11T12:18:02Z</published>
+		<updated>2011-07-11T12:18:02Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/piments-et-poivrons</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/piments et poivrons - semences 2018.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/piments et poivrons - semences 2018
+.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/piments et poivrons - semences 2018.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/piments et poivrons - semences 2018
+.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Semences potagères</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-potageres"/>
+		<published>2011-07-11T12:17:24Z</published>
+		<updated>2011-07-11T12:17:24Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-potageres</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences potagres - site 2018.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences potagres - site 2018.pdf&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences potagres - site 2018.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences potagres - site 2018.pdf&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Semences de fleurs</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-de-fleurs"/>
+		<published>2011-07-11T12:18:32Z</published>
+		<updated>2011-07-11T12:18:32Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-de-fleurs</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences de fleurs.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences de fleurs.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences de fleurs.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences de fleurs.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Graines à germer</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/graines-a-germer"/>
+		<published>2011-07-11T12:18:52Z</published>
+		<updated>2011-07-11T12:18:52Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/graines-a-germer</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue - graines a germer.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue - graines a germer.pdf&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue - graines a germer.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue - graines a germer.pdf&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Semences condimentaires</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-condimentaires"/>
+		<published>2011-07-11T12:18:52Z</published>
+		<updated>2011-07-11T12:18:52Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-condimentaires</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences condimentaires.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences condimentaires.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences condimentaires.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/semences condimentaires.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Semences de gazon</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/gazon-fourrageres-et-engrais-verts"/>
+		<published>2011-07-11T12:19:14Z</published>
+		<updated>2011-07-11T12:19:14Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/gazon-fourrageres-et-engrais-verts</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences de gazon.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences de gazon.pdf&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences de gazon.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences de gazon.pdf&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Semences fourragères</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-fourrageres"/>
+		<published>2011-07-11T12:19:14Z</published>
+		<updated>2011-07-11T12:19:14Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/semences-fourrageres</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences fourrageres.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences fourrageres.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences fourrageres.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a target=&quot;blank&quot; href=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - semences fourrageres.pdf&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;</content>
+	</entry>
+	<entry>
+		<title>Engrais verts</title>
+		<link rel="alternate" type="text/html" href="http://www.ets-horticoles-flamand.be/catalogue-online/semences/engrais-verts"/>
+		<published>2011-07-11T12:19:14Z</published>
+		<updated>2011-07-11T12:19:14Z</updated>
+		<id>http://www.ets-horticoles-flamand.be/catalogue-online/semences/engrais-verts</id>
+		<author>
+			<name>François</name>
+		<email>fenchister@gmail.com</email>
+		</author>
+		<summary type="html">&lt;h1&gt;Une pratique ancienne, des objectifs nouveaux&lt;/h1&gt;
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+&lt;li&gt;&lt;span style=&quot;color: #535738;&quot;&gt;Amélioration des propriétés physiques du sol&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #535738;&quot;&gt;Amélioration des caractéristiques chimiques du sol&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #535738;&quot;&gt;Influence sur les propriétés biologiques&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - engrais verts.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/
+
+images/stories/pdf/catalogue 2017 - engrais verts.pdf
+
+&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;br /&gt;
+&lt;p&gt;&lt;i&gt;La pratique des engrais verts trouve probablement ses origines dans la volonté d’orienter la jachère afin d’en améliorer l’efficacité&amp;nbsp;: on ne laisse plus la terre se «reposer» pendant une année, mais on y installe entre deux cultures successives une ou plusieurs plantes choisies en fonction des circonstances et du but que l’on poursuit.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Aux objectifs anciens que sont le maintien et l’amélioration de la fertilité du sol en y incorporant le produit d’une culture à végétation rapide s’est ajouté récemment le souci de préserver l’environnement, par exemple en limitant le lessivage des éléments fertilisants, et en effectuant une sorte de «désinfection» du sol par une méthode non chimique, non polluante.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;1. Amélioration des propriétés physiques du sol&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Un engrais vert permet de stabiliser la structure d’un sol pendant le laps de temps qui sépare deux cultures successives.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Protection&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La couverture végétale va protéger le sol contre les chocs des gouttes d’eau&lt;/p&gt;
+&lt;p&gt;C’est «l’effet-parapluie » qui est très utile lors de longues périodes pluvieuses ou d’orages violents. Elle va aussi limiter l’érosion en fixant la terre, en favorisant l’infiltration de l’eau et en freinant son ruissellement&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agglutination&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;L’engrais vert va améliorer les propriétés physiques du sol en lui conférant une structure plus grumeleuse&lt;/p&gt;
+&lt;p&gt;c’est «l’effet-granulation»&lt;/p&gt;
+&lt;p&gt;Après enfouissement de matière organique, la flore microbienne et la micro-faune assurent la décomposition : on assiste temporairement à la libération de substances gommeuses et mucilagineuses qui enrobent les particules de terre pour former des grumeaux. Les sols lourds et compacts deviennent plus friables, tandis que les sols légers et meubles deviennent plus structurés et cohérents. Le travail du sol est plus facile et la circulation de l’eau y est améliorée:&amp;nbsp; perméabilité et drainage.&lt;/p&gt;
+&lt;p&gt;L’aération et la rétention d’eau sont plus importants.&lt;/p&gt;
+&lt;p&gt;Tout ceci concourt à un meilleur développement du système radiculaire de la culture suivante, et à une meilleure croissance.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2. Amélioration des caractéristiques chimiques du sol&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Un engrais vert va influencer plusieurs paramètres de la chimie du sol.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alimentation en humus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C’est la notion qui vient à l’esprit en premier lieu, et pourtant à cet égard un engrais vert est beaucoup moins efficace qu’un compost.&amp;nbsp; L’engrais vert peut contribuer à l’élévation du taux d’humus mais il n’est pas suffisant.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alimentation minérale des plantes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La décomposition de la matière organique fraîche en humus libère des éléments minéraux majeurs et mineurs sous une forme facilement assimilable par la culture suivante.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fixation des éléments minéraux&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Entre deux cultures successives il peut s’écouler un laps de temps important.&amp;nbsp; Si cette période est très pluvieuse, le lessivage des éléments minéraux présents dans la couche arable peut être important&amp;nbsp;: c’est surtout le cas pour l’azote et dans une mesure un peu moindre pour le potassium et le magnésium. Ce lessivage est à la fois une perte nette, mais aussi un facteur de pollution des nappes phréatiques et des cours d’eau.&amp;nbsp; Le phénomène d’eutrophisation qui en découle peut avoir des conséquences très graves pour la faune aquatique.&lt;/p&gt;
+&lt;p&gt;Les engrais verts permettent, avec une efficacité variable selon la plante choisie, de fixer les éléments minéraux présents dans la couche arable ils les absorbent pendant leur croissance puis ils les libèrent pendant leur décomposition.&amp;nbsp; Dans un essai réalisé au Centre de recherches agronomiques de Gembloux, on a constaté que par comparaison avec un sol nu, une culture de ray-grass ou de phacélie peuvent fixer environ 80 % de l’azote nitrique résiduel d’un profil de 1,5 m de profondeur, tandis que la moutarde en fixe 70 % et la vesce 40 %. C’est autant qui ne risque pas d’être perdu par lessivage&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enrichissement du sol en azote&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dans les systèmes de culture où les apports d’engrais chimiques ne sont pas souhaités, un engrais vert à base de légumineuses permet une élévation du taux d’azote du sol. On sait que les racines des légumineuses comportent des nodosités où se développent des bactéries symbiotiques (Rhizobium) qui fixent l’azote atmosphérique; finalement celui-ci est transformé en ions nitriques assimilables par les plantes. Cette stratégie est intéressante avant des cultures exigeantes en azote.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remontée d’éléments minéraux situés en profondeur&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Certaines plantes utilisées comme engrais vert ont un enracinement très développé.&amp;nbsp; Ces racines absorbent en profondeur des éléments minéraux que l’on retrouvera dans leur partie aérienne, et qui seront libérés dans la couche arable lors de l’enfouissement de l’engrais vert.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;3. Influence sur les propriétés biologiques&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Amélioration de l’activité de la flore et de la faune du sol&lt;/p&gt;
+&lt;p&gt;La matière organique d’un engrais vert enfoui est à. la fois un support et un aliment pour la flore et la faune du sol. De plus, l’effet «granulation» évoqué plus haut assure une meilleure aération, c’est-à-dire qu’il favorisera les organismes aérobies.&lt;/p&gt;
+&lt;p&gt;L’humus est aussi un facteur de rétention de l’eau, qui est un élément indispensable à l’activité des organismes vivants.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Diminution des populations de nématodes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Les nématodes sont des vers vivant dans le sol; certains d’entre eux sont des parasites du système radiculaire des plantes.&amp;nbsp; Ils affaiblissent considérablement un grand nombre de plantes cultivées. Classiquement on les combat par des traitements chimiques nématocides, qui sont à la fois coûteux, polluants et perturbateurs de la vie du sol (on crée un vide biologique qui se recolonise rapidement par les organismes les plus agressifs).&lt;/p&gt;
+&lt;p&gt;Certaines plantes (moutarde) sont connues pour leurs propriétés nématocides. Leur utilisation combat dans une certaine mesure les nématodes des cultures&amp;nbsp;: les nématodes se développent sur les racines de la plante.&amp;nbsp; Lorsque toutes les racines sont consommées, les nématodes meurent, faute de nourriture.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;br /&gt;</summary>
+		<content type="html">&lt;h1&gt;Une pratique ancienne, des objectifs nouveaux&lt;/h1&gt;
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+&lt;li&gt;&lt;span style=&quot;color: #535738;&quot;&gt;Amélioration des propriétés physiques du sol&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #535738;&quot;&gt;Amélioration des caractéristiques chimiques du sol&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #535738;&quot;&gt;Influence sur les propriétés biologiques&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;iframe src=&quot;http://www.ets-horticoles-flamand.be/images/stories/pdf/catalogue 2017 - engrais verts.pdf&quot; width=&quot;100%&quot; height=&quot;500&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot; name=&quot;iframe&quot; class=&quot;wrapper&quot; id=&quot;blockrandom&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Si vous désirez télécharger ce document, &lt;a href=&quot;http://www.ets-horticoles-flamand.be/
+
+images/stories/pdf/catalogue 2017 - engrais verts.pdf
+
+&quot; target=&quot;blank&quot;&gt;cliquez ici&lt;/a&gt;.&lt;/p&gt;
+
+
+
+&lt;br /&gt;
+&lt;p&gt;&lt;i&gt;La pratique des engrais verts trouve probablement ses origines dans la volonté d’orienter la jachère afin d’en améliorer l’efficacité&amp;nbsp;: on ne laisse plus la terre se «reposer» pendant une année, mais on y installe entre deux cultures successives une ou plusieurs plantes choisies en fonction des circonstances et du but que l’on poursuit.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Aux objectifs anciens que sont le maintien et l’amélioration de la fertilité du sol en y incorporant le produit d’une culture à végétation rapide s’est ajouté récemment le souci de préserver l’environnement, par exemple en limitant le lessivage des éléments fertilisants, et en effectuant une sorte de «désinfection» du sol par une méthode non chimique, non polluante.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;1. Amélioration des propriétés physiques du sol&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Un engrais vert permet de stabiliser la structure d’un sol pendant le laps de temps qui sépare deux cultures successives.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Protection&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La couverture végétale va protéger le sol contre les chocs des gouttes d’eau&lt;/p&gt;
+&lt;p&gt;C’est «l’effet-parapluie » qui est très utile lors de longues périodes pluvieuses ou d’orages violents. Elle va aussi limiter l’érosion en fixant la terre, en favorisant l’infiltration de l’eau et en freinant son ruissellement&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agglutination&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;L’engrais vert va améliorer les propriétés physiques du sol en lui conférant une structure plus grumeleuse&lt;/p&gt;
+&lt;p&gt;c’est «l’effet-granulation»&lt;/p&gt;
+&lt;p&gt;Après enfouissement de matière organique, la flore microbienne et la micro-faune assurent la décomposition : on assiste temporairement à la libération de substances gommeuses et mucilagineuses qui enrobent les particules de terre pour former des grumeaux. Les sols lourds et compacts deviennent plus friables, tandis que les sols légers et meubles deviennent plus structurés et cohérents. Le travail du sol est plus facile et la circulation de l’eau y est améliorée:&amp;nbsp; perméabilité et drainage.&lt;/p&gt;
+&lt;p&gt;L’aération et la rétention d’eau sont plus importants.&lt;/p&gt;
+&lt;p&gt;Tout ceci concourt à un meilleur développement du système radiculaire de la culture suivante, et à une meilleure croissance.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;2. Amélioration des caractéristiques chimiques du sol&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Un engrais vert va influencer plusieurs paramètres de la chimie du sol.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alimentation en humus&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C’est la notion qui vient à l’esprit en premier lieu, et pourtant à cet égard un engrais vert est beaucoup moins efficace qu’un compost.&amp;nbsp; L’engrais vert peut contribuer à l’élévation du taux d’humus mais il n’est pas suffisant.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alimentation minérale des plantes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La décomposition de la matière organique fraîche en humus libère des éléments minéraux majeurs et mineurs sous une forme facilement assimilable par la culture suivante.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fixation des éléments minéraux&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Entre deux cultures successives il peut s’écouler un laps de temps important.&amp;nbsp; Si cette période est très pluvieuse, le lessivage des éléments minéraux présents dans la couche arable peut être important&amp;nbsp;: c’est surtout le cas pour l’azote et dans une mesure un peu moindre pour le potassium et le magnésium. Ce lessivage est à la fois une perte nette, mais aussi un facteur de pollution des nappes phréatiques et des cours d’eau.&amp;nbsp; Le phénomène d’eutrophisation qui en découle peut avoir des conséquences très graves pour la faune aquatique.&lt;/p&gt;
+&lt;p&gt;Les engrais verts permettent, avec une efficacité variable selon la plante choisie, de fixer les éléments minéraux présents dans la couche arable ils les absorbent pendant leur croissance puis ils les libèrent pendant leur décomposition.&amp;nbsp; Dans un essai réalisé au Centre de recherches agronomiques de Gembloux, on a constaté que par comparaison avec un sol nu, une culture de ray-grass ou de phacélie peuvent fixer environ 80 % de l’azote nitrique résiduel d’un profil de 1,5 m de profondeur, tandis que la moutarde en fixe 70 % et la vesce 40 %. C’est autant qui ne risque pas d’être perdu par lessivage&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enrichissement du sol en azote&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dans les systèmes de culture où les apports d’engrais chimiques ne sont pas souhaités, un engrais vert à base de légumineuses permet une élévation du taux d’azote du sol. On sait que les racines des légumineuses comportent des nodosités où se développent des bactéries symbiotiques (Rhizobium) qui fixent l’azote atmosphérique; finalement celui-ci est transformé en ions nitriques assimilables par les plantes. Cette stratégie est intéressante avant des cultures exigeantes en azote.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Remontée d’éléments minéraux situés en profondeur&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Certaines plantes utilisées comme engrais vert ont un enracinement très développé.&amp;nbsp; Ces racines absorbent en profondeur des éléments minéraux que l’on retrouvera dans leur partie aérienne, et qui seront libérés dans la couche arable lors de l’enfouissement de l’engrais vert.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;3. Influence sur les propriétés biologiques&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Amélioration de l’activité de la flore et de la faune du sol&lt;/p&gt;
+&lt;p&gt;La matière organique d’un engrais vert enfoui est à. la fois un support et un aliment pour la flore et la faune du sol. De plus, l’effet «granulation» évoqué plus haut assure une meilleure aération, c’est-à-dire qu’il favorisera les organismes aérobies.&lt;/p&gt;
+&lt;p&gt;L’humus est aussi un facteur de rétention de l’eau, qui est un élément indispensable à l’activité des organismes vivants.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Diminution des populations de nématodes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Les nématodes sont des vers vivant dans le sol; certains d’entre eux sont des parasites du système radiculaire des plantes.&amp;nbsp; Ils affaiblissent considérablement un grand nombre de plantes cultivées. Classiquement on les combat par des traitements chimiques nématocides, qui sont à la fois coûteux, polluants et perturbateurs de la vie du sol (on crée un vide biologique qui se recolonise rapidement par les organismes les plus agressifs).&lt;/p&gt;
+&lt;p&gt;Certaines plantes (moutarde) sont connues pour leurs propriétés nématocides. Leur utilisation combat dans une certaine mesure les nématodes des cultures&amp;nbsp;: les nématodes se développent sur les racines de la plante.&amp;nbsp; Lorsque toutes les racines sont consommées, les nématodes meurent, faute de nourriture.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;br /&gt;</content>
+	</entry>
+</feed>

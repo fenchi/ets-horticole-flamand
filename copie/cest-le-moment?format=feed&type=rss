@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<?xml-stylesheet href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1010" type="text/css"?>
+<?xml-stylesheet href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1010" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Que puis-je faire dans mon jardin ?</title>
+		<description>Les établissements Flamand vous proposent leurs spécialités florales, pépinières, semences, et vous offrent un catalogue de produits important, avec promotions régulières</description>
+		<link>http://www.ets-horticoles-flamand.be/cest-le-moment</link>
+		<lastBuildDate>Sun, 15 Apr 2018 06:21:02 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>fr-fr</language>
+		<item>
+			<title>Fraisiers</title>
+			<link>http://www.ets-horticoles-flamand.be/cest-le-moment/43-cest-le-moment/84-fraisiers</link>
+			<guid>http://www.ets-horticoles-flamand.be/cest-le-moment/43-cest-le-moment/84-fraisiers</guid>
+			<description><![CDATA[<p>C'est le moment de repiquer les fraisiers.</p>
+<p> </p>
+<center><img src="http://www.fond-ecran-image.fr/galerie-membre/fruit-fraise/fond-d-ecran-fraises.jpg" alt="Fraises" width="500" /></center>
+<p> </p>]]></description>
+			<author>fenchister@gmail.com (François)</author>
+			<category>C'est le moment</category>
+			<pubDate>Fri, 12 Aug 2011 14:24:11 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
